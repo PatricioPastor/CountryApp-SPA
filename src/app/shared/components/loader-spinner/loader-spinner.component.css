@@ -1,0 +1,15 @@
+.loader-spinner {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  background-color: #161616;
+  color: white;
+  padding: 6px 12px;
+  border-radius: 16px;
+  box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.4);
+}
+
+span {
+  padding: 0 2px;
+  margin-right: 6px;
+}
